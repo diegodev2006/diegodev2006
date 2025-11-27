@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Diego de Souza da Silva
-`Systems Analysis and Development| Front-End`
+`Systems Analysis and Development|Front-End`
 - __Hello everyone, nice to meet you all, my name is Diego and I'm starting my journey as a front-end developer.__
 <!--
 **diegodev2006/diegodev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
