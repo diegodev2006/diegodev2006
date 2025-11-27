@@ -5,6 +5,9 @@
 ------------
 ![XD](https://i.pinimg.com/originals/9a/3b/2b/9a3b2b5599d179e739fad2ec5d9c6756.gif)
 ------------
+## Stacks
+
+![JS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 <!--
 **diegodev2006/diegodev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
