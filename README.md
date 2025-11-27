@@ -14,7 +14,7 @@
 |--------| -------------|
 |Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/8YPJNIOF.pdf)
 ------
-![Diego Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Diego Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodev2006&show_icons=true&theme=dark)
 
 <!--
 **diegodev2006/diegodev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
