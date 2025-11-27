@@ -2,9 +2,9 @@
 `Systems Analysis and Development|Front-End`
 - __Hello everyone, nice to meet you all, my name is Diego and I'm starting my journey as a front-end developer.__
 - __Reach me out here: ds2365840@gmail.com__
-
+------------
 ![XD](https://i.pinimg.com/originals/9a/3b/2b/9a3b2b5599d179e739fad2ec5d9c6756.gif)
-
+------------
 <!--
 **diegodev2006/diegodev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
