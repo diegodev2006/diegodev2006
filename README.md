@@ -12,7 +12,9 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=100px>
 
 --------
-
+| Cursos | Certificados |
+|--------| -------------|
+|Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/8YPJNIOF.pdf)
 <!--
 **diegodev2006/diegodev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
