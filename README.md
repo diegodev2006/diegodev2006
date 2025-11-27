@@ -16,6 +16,7 @@
 |Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/8YPJNIOF.pdf)
 ------
 ![Diego Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodev2006&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodev2006&layout=compact&theme=codeSTACKr" alt="Top Languages">
 ------
 ## Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
