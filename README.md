@@ -20,6 +20,7 @@
 ## Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Basic English
+----
 
 <!--
 **diegodev2006/diegodev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
