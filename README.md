@@ -4,7 +4,7 @@
 - __Reach me out here: ds2365840@gmail.com__
 ------------
 ![XD](https://i.pinimg.com/originals/9a/3b/2b/9a3b2b5599d179e739fad2ec5d9c6756.gif)
-------------
+
 ## Stacks
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width=50px><img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width=50px>
