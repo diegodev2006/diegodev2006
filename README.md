@@ -14,6 +14,7 @@
 | Cursos | Certificados |
 |--------| -------------|
 |Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/8YPJNIOF.pdf)
+|Formação Github Certification  | [Certificado](https://hermes.dio.me/certificates/0GW6EALU.pdf)
 ------
 ![Diego Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodev2006&show_icons=true&theme=codeSTACKr)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodev2006&layout=compact&theme=codeSTACKr" alt="Top Languages">
