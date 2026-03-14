@@ -3,7 +3,7 @@
 - __Hello everyone, nice to meet you all, my name is Diego and I'm starting my journey as a front-end developer.__
 - __Reach me out here: ds2365840@gmail.com__
 ------------
-![XD](https://i.pinimg.com/originals/45/66/b2/4566b2c43d43bf8529799ff1c1e78fe8.gif)
+![XD](https://i.pinimg.com/originals/bd/77/29/bd772901372ce97334a8764c3067e46f.gif)
 ------
 
 ## Stacks
