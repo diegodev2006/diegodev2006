@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Diego de Souza da Silva
+## 🤓 Diego de Souza da Silva
 `Systems Analysis and Development|Front-End`
 - __Hello everyone, nice to meet you all, my name is Diego and I'm starting my journey as a front-end developer.__
 - __Reach me out here: ds2365840@gmail.com__
